@@ -15,3 +15,6 @@
 #Feature 30/01/25 - Object Oriented Programming Fundamentals.
 
 #Feature 31/01/25 - Java Constructors , Instance vs Class Variable , Access MOdifiers Concepts
+
+#Feature 04/02/25 - I learned Different Concepts In this Assignment - This,Static ,Fianl, Instanceof.
+                    This made my concepts more clear.
