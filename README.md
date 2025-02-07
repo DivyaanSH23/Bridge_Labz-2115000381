@@ -19,6 +19,8 @@
 #Feature 04/02/25 - I learned Different Concepts In this Assignment - This,Static ,Fianl, Instanceof.
                     This made my concepts more clear.
 
+#Feature 06/02/25- I learned Object Oriented Design Principles, Class Diagram, Object Diagrams and Sequence Diagrams                    
+
 #Feature 07/02/25 -I learned, Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance
-                    , Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance
+                    , Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance and Access Modifiers and Inheritance
                     
