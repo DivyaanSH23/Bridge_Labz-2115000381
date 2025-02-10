@@ -24,3 +24,4 @@
 #Feature 07/02/25 -I learned, Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance
                     , Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance and Access Modifiers and Inheritance
                     
+#Feature 10/02/25 -I Learned, - Encapsulation, Polymorphism, Interface and Abstract Classes
