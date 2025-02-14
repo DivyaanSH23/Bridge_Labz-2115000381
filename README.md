@@ -27,3 +27,7 @@
 #Feature 10/02/25 -I Learned, Encapsulation, Polymorphism, Interface and Abstract Classes
 
 #Feature 11/02/25 -I Learned ,Single Linked List, Double Linked List and Circular Linked List
+
+#Feature 13/02/25 - I learened more about Stack , Queue, HashMap and Hashing Function.
+
+#Feature 14/02/25 - I learned different types of sorting algos like-Bubble Sort,Insertion Sort,Merge Sort,Quick Sort.
