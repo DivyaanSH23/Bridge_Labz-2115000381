@@ -33,3 +33,24 @@
 #Feature 14/02/25 - I learned different types of sorting algos like-Bubble Sort,Insertion Sort,Merge Sort,Quick Sort.
 
 #Feature 15/02/25 - I Learned StringBuilder, StringBuffer,FileReader, InputStreamReader,Linear Search and Binary Search
+
+#Fearure 17/02/25 - I Learned General Algorithm Best Practices,Time and space Complexity Optimization
+
+#Feature 18/02/25 - I Learned Introduction to Generics Type Parameters Generic Classes Generic Methods Bounded Type Parameters Wildcards
+
+#Feature 19/02/25 - I Learned Overview of Collections Framework,What is the Collections Framework Hierarchy of Collections Framework List Interface and Implementing Classes
+                    Set Interface and Implementing Classes Queue and Deque Interfaces Map Interface and Its Implementations  Comparison of Different Implementations 
+                    Real-World Use Cases and Best Practices.
+
+#Feature 21/02/25 - I Learned Java I/O Streams Types of Streams
+                    1. File Streams
+                    2. Object Streams
+                    3. ByteArray Streams
+                    4. Buffered Streams
+                    5. Reader and Writer
+
+#Feature 22/02/25 - I Learned Exceptions Types of Exceptions and Exception Handling and Regex and JUnit
+
+#Feature 24/02/25 -  I Learned Introduction to Annotations 
+                     Common Built-in Annotations Creating Custom Annotations Advanced Custom Annotations Real-World Use Cases Annotation Processing Tools 
+                     Reflection Understanding of Reflection Using Reflection in Java Annotations and Reflection.
